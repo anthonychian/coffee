@@ -23,17 +23,17 @@ const Footer = () => {
             <FooterWrap>
                 <SocialMedia>
                     <SocialMediaWrap>
-                        <SocialLogo to="/">Coffee</SocialLogo>
+                        <SocialLogo to="/">Coffee Shop</SocialLogo>
                         <SocialIcons>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="/facebook" target="_blank"
                             aria-label="Facebook" rel="noopener noreferrer">
                                 <FaFacebook />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="/instagram" target="_blank"
                             aria-label="Instagram" rel="noopener noreferrer">
                                 <FaInstagram />
                             </SocialIconLink>
-                            <SocialIconLink href="/" target="_blank"
+                            <SocialIconLink href="/twitter" target="_blank"
                             aria-label="Twitter" rel="noopener noreferrer">
                                 <FaTwitter />
                             </SocialIconLink>
